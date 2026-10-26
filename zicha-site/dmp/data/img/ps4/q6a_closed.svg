@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 480" width="560" height="480" font-family="Gill Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">
+<rect width="560" height="480" fill="#ffffff"/>
+<line x1="120" y1="420" x2="120" y2="60" stroke="#e6e0d2"/><line x1="120" y1="420" x2="480" y2="420" stroke="#e6e0d2"/>
+<line x1="210.0" y1="420" x2="210.0" y2="60" stroke="#e6e0d2"/><line x1="120" y1="330.0" x2="480" y2="330.0" stroke="#e6e0d2"/>
+<line x1="300.0" y1="420" x2="300.0" y2="60" stroke="#e6e0d2"/><line x1="120" y1="240.0" x2="480" y2="240.0" stroke="#e6e0d2"/>
+<line x1="390.0" y1="420" x2="390.0" y2="60" stroke="#e6e0d2"/><line x1="120" y1="150.0" x2="480" y2="150.0" stroke="#e6e0d2"/>
+<line x1="480" y1="420" x2="480" y2="60" stroke="#e6e0d2"/><line x1="120" y1="60" x2="480" y2="60" stroke="#e6e0d2"/>
+<line x1="120" y1="420" x2="480" y2="420" stroke="#1c1f27" stroke-width="1.5"/><line x1="120" y1="420" x2="120" y2="60" stroke="#1c1f27" stroke-width="1.5"/>
+<text x="300.0" y="454" font-size="12" fill="#1c1f27" text-anchor="middle" font-weight="normal" >Committee ideal point C  (0 → 1)</text>
+<text transform="translate(18,240.0) rotate(-90)" font-size="12" fill="#1c1f27" text-anchor="middle">Equilibrium outcome</text>
+<text x="120" y="436" font-size="11" fill="#7a7f8c" text-anchor="middle" font-weight="normal" >0</text>
+<text x="480" y="436" font-size="11" fill="#7a7f8c" text-anchor="middle" font-weight="normal" >1</text>
+<line x1="120" y1="420" x2="480" y2="60" stroke="#cfc7b6" stroke-dasharray="3 3"/><text x="192.0" y="391.2" font-size="10" fill="#7a7f8c" text-anchor="middle" font-weight="normal" >45° (outcome = C)</text>
+<line x1="115" y1="330.0" x2="120" y2="330.0" stroke="#7a2e2e"/><text x="112" y="334.0" font-size="11" fill="#7a2e2e" text-anchor="end" font-weight="normal" >SQ</text>
+<line x1="210.0" y1="420" x2="210.0" y2="425" stroke="#7a2e2e"/><text x="210.0" y="436" font-size="11" fill="#7a2e2e" text-anchor="middle" font-weight="normal" >SQ</text>
+<line x1="115" y1="258.0" x2="120" y2="258.0" stroke="#a98a3f"/><text x="112" y="262.0" font-size="11" fill="#a98a3f" text-anchor="end" font-weight="normal" >M (floor median)</text>
+<line x1="282.0" y1="420" x2="282.0" y2="425" stroke="#a98a3f"/><text x="282.0" y="436" font-size="11" fill="#a98a3f" text-anchor="middle" font-weight="normal" >M</text>
+<line x1="115" y1="186.0" x2="120" y2="186.0" stroke="#1f3a5f"/><text x="112" y="190.0" font-size="11" fill="#1f3a5f" text-anchor="end" font-weight="normal" >2M − SQ</text>
+<line x1="354.0" y1="420" x2="354.0" y2="425" stroke="#1f3a5f"/><text x="354.0" y="436" font-size="11" fill="#1f3a5f" text-anchor="middle" font-weight="normal" >2M − SQ</text>
+<polyline points="120,330.0 210.0,330.0 354.0,186.0 480,186.0" fill="none" stroke="#1f3a5f" stroke-width="3"/><text x="426.0" y="176.0" font-size="12" fill="#1f3a5f" text-anchor="middle" font-weight="bold" >closed rule</text>
+</svg>

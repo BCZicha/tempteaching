@@ -1,0 +1,49 @@
+{
+  "_comment": "Direct Google Drive links for readings. 'match' is a case-insensitive substring of the citation as it appears in the syllabus; 'links' are shown as buttons on the Readings page. To add one: upload the PDF to Drive, Share -> Anyone with the link (viewer), copy the file id from its URL (…/file/d/<ID>/view), and add an entry. Then rebuild (python3 -I build.py).",
+  "dmp_week_folders": {
+    "1": "164R6u1QZuMGb_9V5r5XaEHAPj_TWGigC",
+    "2": "1a33zAP07jtd-0glw7LwWamJfTrS0latq",
+    "3": "1YABIuiw8DlcdNsFsVYhq0cJFED2U51HM",
+    "4": "1__Uam8JSYjtsvnrtXnBEMeC5cONsh-l8",
+    "5": "1zsF53uhQ6zNt9EEpw3btoZTQBtTvFREX",
+    "6": "18JwkvyAT30ZKRcJI_slQSYs-ynLYaS8j",
+    "7": "12cRMPfciBYWydRcwmhaJSLGqTQKtixqB"
+  },
+  "igd_folder": "1l7m8CqdmsWkdeVJZLrnnmwdR-No8tfo_",
+  "dmp": [
+    {"match": "Self-Knowledge for Self-Control", "links": [{"label": "Open in Drive", "id": "1ujeG-N91LZAxXr7xEYzv0cZMO1e9gyMM"}]},
+    {"match": "Why Model?", "links": [{"label": "Open in Drive", "id": "1cOhWAUWehdRvzZZq1mZT0NAR9qXQioH4"}]},
+    {"match": "Choosing in Groups*, Ch 1", "links": [{"label": "Excerpt in Drive", "id": "1yjHadrinX2v5kzRTaCpBU0CDwvzJNluy"}]},
+    {"match": "Political Science and Rational Choice", "links": [{"label": "Open in Drive", "id": "1haSmftXOFc8aSaRl3GW0cEnw2osyjlAU"}]},
+    {"match": "Will Economics Become an Experimental Science", "links": [{"label": "Open in Drive", "id": "1yDcNenfRkJqQDS6Gwp51VwuLTe7H8jYa"}]},
+    {"match": "Rationality and the Foundations of Positive Political Theory", "links": [{"label": "Open in Drive", "id": "1rEbq7YZbJ6rv-VTbUgyJB-Ie09SCa7Di"}]},
+    {"match": "Judgment in Managerial", "links": [{"label": "Book in Drive", "id": "1xTZI0jxbrF3scQ7ixeXIhRwnFSv2Uoxc"}]},
+    {"match": "Bounded Rationality.", "links": [{"label": "Open in Drive", "id": "1mEtJuB--WAzYhTgamFfrNKteoaKK1-vP"}]},
+    {"match": "Thinking, Fast and Slow", "links": [{"label": "Book in Drive", "id": "1ko8n1LeA2ZmOeJ2ByuDXlICfVBPvIvqf"}]},
+    {"match": "Why A Constitution", "links": [{"label": "Book in Drive", "id": "1yVYuABVyutxcoysvREsXRD0MSwTTwAs0"}]},
+    {"match": "Economics of Information", "links": [{"label": "Open in Drive", "id": "11Pw0hN4zk1qqWZYd2nvolqEu_2qYCd5w"}]},
+    {"match": "Political Economy of Dictatorship", "links": [{"label": "Open in Drive", "id": "1ZxH450qqVELVHpz57G96EcidHjBMiux2"}]},
+    {"match": "Parliamentary Democracy and Delegation", "links": [{"label": "Open in Drive", "id": "1a8XiURQOTY_0zEKGQFLaIoXb_dWZMCz_"}]},
+    {"match": "Power and Prosperity", "links": [{"label": "Book in Drive", "id": "1_JhM-eZ6GeDJkFj1FTtu8eJGtcFBQEQU"}]},
+    {"match": "Informational Basis of Social Choice", "links": [{"label": "Open in Drive", "id": "1NHu1MbYCYIiisHgfifYPlD7hfuApinAY"}]},
+    {"match": "Art of Political Manipulation", "links": [{"label": "Book in Drive", "id": "1_9qatteeZE6Z7KWnRnhkeroQ2SSCHUjp"}]},
+    {"match": "Public Policies as Institutions", "links": [{"label": "Open in Drive", "id": "1ZXwpA2Hhe4LkQ470m_hf0z_ibj8EAS9L"}]},
+    {"match": "Politics in Time", "links": [{"label": "Open in Drive", "id": "1YxiPuPTYl8fQYUnf192mfHJu_WVH3cFx"}]}
+  ],
+  "igd": [
+    {"match": "Self-Knowledge for Self-Control", "links": [{"label": "Open in Drive", "id": "1CI-R-R_cDMZq8u1SOB-SIwXXkMrQR-Ur"}]},
+    {"match": "North, Chapter 1", "links": [{"label": "Ch. 1 in Drive", "id": "1kMHHE4NlGxC1ASPFkYy0tWphfODcw15Z"}]},
+    {"match": "Why Nations Fail", "links": [{"label": "Book in Drive", "id": "1NwznTFv5WDXsvDsRPJpyop2-NrSfovIq"}]},
+    {"match": "What Markets Can", "links": [{"label": "Open in Drive", "id": "1JBJQJ7H6MYpTGt00vNaNx_WXEotWO-Nw"}]},
+    {"match": "Religious Groups as Adaptive Units", "links": [{"label": "Open in Drive", "id": "1HJOuJ0MEEi9IU_JZHgJ4hrsrSd8ly-Zz"}]},
+    {"match": "Law and Manners", "links": [{"label": "Open in Drive", "id": "1jHhgq66QNqc5vFjTLJ1r2oFudLKAbPJI"}]},
+    {"match": "Social Order of the Underworld", "links": [
+      {"label": "Ch. 1", "id": "1jUsfKr5PGXc4csWOztMhIj0gEemEbDTR"},
+      {"label": "Ch. 2", "id": "1nRIvyp1SuQTSvXk_3FKuVOalsoAfamOv"},
+      {"label": "Ch. 3", "id": "1C0LONyxBquVXY1JuhUKVjrNr2nuZyG-x"},
+      {"label": "Ch. 5", "id": "1va9WIWj9Z6EydbKhCIgAMJvPXIl4DMpg"}
+    ]},
+    {"match": "Institutional Determinants of Economic Policy Outcomes", "links": [{"label": "Open in Drive", "id": "1wHdibDSNxmSFamUCYFSgmA15HaSIl1L6"}]},
+    {"match": "How Institutions Evolve", "links": [{"label": "Book in Drive", "id": "19rPF4bNsSM9xUCaN03M1J8JRR6jXcO0Y"}]}
+  ]
+}

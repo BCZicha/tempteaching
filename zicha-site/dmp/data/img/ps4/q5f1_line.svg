@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 170" width="760" height="170" font-family="Gill Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">
+<rect width="760" height="170" fill="#ffffff"/>
+<line x1="60" y1="90" x2="700" y2="90" stroke="#1c1f27" stroke-width="2"/>
+<line x1="60.0" y1="85" x2="60.0" y2="95" stroke="#1c1f27"/><text x="60.0" y="112" font-size="11" fill="#7a7f8c" text-anchor="middle" font-weight="normal" >€0bn</text>
+<line x1="124.0" y1="85" x2="124.0" y2="95" stroke="#1c1f27"/><text x="124.0" y="112" font-size="11" fill="#7a7f8c" text-anchor="middle" font-weight="normal" >€10bn</text>
+<line x1="188.0" y1="85" x2="188.0" y2="95" stroke="#1c1f27"/><text x="188.0" y="112" font-size="11" fill="#7a7f8c" text-anchor="middle" font-weight="normal" >€20bn</text>
+<line x1="252.0" y1="85" x2="252.0" y2="95" stroke="#1c1f27"/><text x="252.0" y="112" font-size="11" fill="#7a7f8c" text-anchor="middle" font-weight="normal" >€30bn</text>
+<line x1="316.0" y1="85" x2="316.0" y2="95" stroke="#1c1f27"/><text x="316.0" y="112" font-size="11" fill="#7a7f8c" text-anchor="middle" font-weight="normal" >€40bn</text>
+<line x1="380.0" y1="85" x2="380.0" y2="95" stroke="#1c1f27"/><text x="380.0" y="112" font-size="11" fill="#7a7f8c" text-anchor="middle" font-weight="normal" >€50bn</text>
+<line x1="444.0" y1="85" x2="444.0" y2="95" stroke="#1c1f27"/><text x="444.0" y="112" font-size="11" fill="#7a7f8c" text-anchor="middle" font-weight="normal" >€60bn</text>
+<line x1="508.0" y1="85" x2="508.0" y2="95" stroke="#1c1f27"/><text x="508.0" y="112" font-size="11" fill="#7a7f8c" text-anchor="middle" font-weight="normal" >€70bn</text>
+<line x1="572.0" y1="85" x2="572.0" y2="95" stroke="#1c1f27"/><text x="572.0" y="112" font-size="11" fill="#7a7f8c" text-anchor="middle" font-weight="normal" >€80bn</text>
+<line x1="636.0" y1="85" x2="636.0" y2="95" stroke="#1c1f27"/><text x="636.0" y="112" font-size="11" fill="#7a7f8c" text-anchor="middle" font-weight="normal" >€90bn</text>
+<line x1="700.0" y1="85" x2="700.0" y2="95" stroke="#1c1f27"/><text x="700.0" y="112" font-size="11" fill="#7a7f8c" text-anchor="middle" font-weight="normal" >€100bn</text>
+<circle cx="220.0" cy="90" r="6" fill="#7a2e2e" stroke="#fff" stroke-width="1.5"/><text x="220.0" y="76" font-size="11" fill="#7a2e2e" text-anchor="middle" font-weight="bold" >Skeptic €25</text>
+<circle cx="252.0" cy="90" r="6" fill="#1f3a5f" stroke="#fff" stroke-width="1.5"/><text x="252.0" y="60" font-size="11" fill="#1f3a5f" text-anchor="middle" font-weight="bold" >Tech (median) €30</text>
+<circle cx="540.0" cy="90" r="6" fill="#2f6b3a" stroke="#fff" stroke-width="1.5"/><text x="540.0" y="76" font-size="11" fill="#2f6b3a" text-anchor="middle" font-weight="bold" >Environmental €75</text>
+<polygon points="316.0,81 309.0,94 323.0,94" fill="#1c1f27"/><text x="316.0" y="134" font-size="11" fill="#1c1f27" text-anchor="middle" font-weight="bold" >SQ = €40</text>
+<text x="380.0" y="18" font-size="12" fill="#7a7f8c" text-anchor="middle" font-weight="normal" >Renewables only: with three voters the median is Tech at €30, so Tech + Skeptic move policy from €40 to €30</text>
+</svg>
