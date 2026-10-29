@@ -1,0 +1,56 @@
+{
+ "_comment": "Per-week links to reading guides, lecture slides, handouts etc. (e.g. Dropbox shared links). Keys are week numbers as strings; each item has a label and a url. Items without a url are ignored. Rebuild with python3 -I build.py after editing. For a Dropbox link that should open in the browser keep ?dl=0; use ?dl=1 to download directly.",
+ "igd": {
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": []
+ },
+ "dmp": {
+  "1": [
+   {
+    "label": "Week 1 extra materials (Dropbox)",
+    "url": "https://www.dropbox.com/scl/fo/9gsori8hbq5l5dntejm1z/AGG_I3pr2DtjGSltA_p6SKY?rlkey=zss6pi8ayx50o06iny5kkiy83&st=wna4e118&dl=0"
+   }
+  ],
+  "2": [
+   {
+    "label": "Week 2 extra materials (Dropbox)",
+    "url": "https://www.dropbox.com/scl/fo/dpvpt179b5yrn2vk41248/AF8UGEplGZZwH7IyrCIsxq0?rlkey=bww23tzm8at4pqkkyzqjkesz9&st=olul62ar&dl=0"
+   }
+  ],
+  "3": [
+   {
+    "label": "Week 3 extra materials (Dropbox)",
+    "url": "https://www.dropbox.com/scl/fo/ug3qzagvyiaple9jjvl72/AIcBnAMjkkVWutD1utu-Jns?rlkey=qq0hino7mpu48k2rl8vtllqw2&st=a5okqu7y&dl=0"
+   }
+  ],
+  "4": [
+   {
+    "label": "Week 4 extra materials (Dropbox)",
+    "url": "https://www.dropbox.com/scl/fo/rc50cl4861tqs1port2fp/ADaXjOqoBA-TOUgKkviQil4?rlkey=93hyveogh9prolgabwcvvv78q&st=lgaq91p0&dl=0"
+   }
+  ],
+  "5": [
+   {
+    "label": "Week 5 extra materials (Dropbox)",
+    "url": "https://www.dropbox.com/scl/fo/ez3f5jmwonpp6xiraie73/AFiAL9lUeLbhzFPfKZuS9qE?rlkey=q6xybmsaid4grme2p7ek4d8ka&st=t26olkv1&dl=0"
+   }
+  ],
+  "6": [
+   {
+    "label": "Week 6 extra materials (Dropbox)",
+    "url": "https://www.dropbox.com/scl/fo/1qkclntm2e5bkkgbaawba/AFx7x-lYqsZAbgnvA-CbqXo?rlkey=lbr4cec2h83jit13orfdhtce3&st=fav0721l&dl=0"
+   }
+  ],
+  "7": [
+   {
+    "label": "Week 7 extra materials (Dropbox)",
+    "url": "https://www.dropbox.com/scl/fo/e00aciml041w424o42j1o/AJrqk2-vVq1flQw5HkbxOrk?rlkey=8e8kds326onkhvhh25389evvp&st=mk88vmx6&dl=0"
+   }
+  ]
+ }
+}
