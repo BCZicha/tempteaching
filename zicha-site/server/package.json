@@ -1,9 +1,0 @@
-{
-  "name": "dmp-workbook-server",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Zero-dependency backend for the DMP problem-set workbook (serves the site and stores student work).",
-  "main": "server.js",
-  "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=18" }
-}
