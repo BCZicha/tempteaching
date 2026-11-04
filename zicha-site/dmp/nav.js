@@ -5,7 +5,7 @@ function DMP_NAV(current) {
     ['index', 'Overview', 'index.html', false],
     ['syllabus', 'Syllabus', 'syllabus.html', false],
     ['readings', 'Readings', 'readings.html', true],
-    ['problem-sets', 'Problem Sets', 'problem-sets.html', true],
+    ['problem-sets', 'Problem Sets', 'https://dmp-practice.onrender.com/#signin', true],
     ['assessments', 'Assessments', 'assessments.html', false],
     ['exam', 'Exam Prep', 'exam-prep.html', false]
   ], current);
