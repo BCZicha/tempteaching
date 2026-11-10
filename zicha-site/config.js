@@ -13,7 +13,7 @@ window.SITE_CONFIG = {
 
   /* External links */
   substackUrl: "https://friendlyprofessing.substack.com",
-  collegeProjectUrl: "",          /* leave empty until the site exists */
+  collegeProjectUrl: "https://can-liberal-arts-save-the-world.netlify.app/",
 
   /* Brightspace. `brightspaceUrl` is the general entry page and is used for
      every "submit via Brightspace" link. If you later want a link that goes
